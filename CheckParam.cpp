@@ -1,7 +1,6 @@
 /*
  * Mitchell Katz
  * Thursday, March 5, 2015
- * Neurala Coding Challenge
  * CheckParam.cpp
  */
 
